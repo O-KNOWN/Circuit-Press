@@ -68,7 +68,7 @@ function Default(props) {
             </div>
             <div className='md:flex text-[#024852] md:justify-between md:mx-9 lg:justify-around lg:mx-10  mx-3 '> 
                 <div className='lg:w-[600px] md:mt-0 mt-3 md:mx-0 mx-2 md:mb-0 mb-3 md:w-[50%]'>
-                    <p className="m-0"><code>CircuitPress</code> decodes the most exciting shifts in <code>{"Africa's Tech Ecosystem"}</code>, spotlighting the hottest conversations from 9ja Tech Twitter, deep dives into <code>emerging innovations</code>, and exclusive updates before they go public. Making the <code>unknown, known—one</code> story at a time.</p>
+                    <p className="m-0"><code><b>CircuitPress</b></code> decodes the most exciting shifts in <code><b>{"Africa's Tech Ecosystem"}</b></code>, spotlighting the hottest conversations from 9ja Tech Twitter, deep dives into <code><b>emerging innovations</b></code>, and exclusive updates before they go public. Making the <code><b>unknown, known—one</b></code> story at a time.</p>
                 </div>
                 <div className="lg:flex ">
                     <div className='md:w-50'>
@@ -76,7 +76,7 @@ function Default(props) {
                         <ul>
                             <li>
                                 <p className="m-0">
-                                    Abuja, Nigeria
+                                    <b>Abuja, Nigeria</b>
                                 </p>
                             </li>
                             <li>

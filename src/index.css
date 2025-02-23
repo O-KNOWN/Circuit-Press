@@ -1,0 +1,18 @@
+body{
+  background-color: #E6E7F3;
+  font-family: "Sintony", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* 
+@media screen and (max-width:401px) {
+  .items{
+    margin-top: 50px;
+  }
+} */
+
+@media screen and (max-width:321px) {
+  .items{
+    margin-top: 50px;
+  }
+}

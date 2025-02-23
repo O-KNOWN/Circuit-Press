@@ -16,7 +16,7 @@ CircuitPress is a tech newsletter that delivers the most interesting and relevan
 
 ## Stay Connected
 - **Subscribe to the Newsletter** – [Coming Soon]
-- **Follow us on Twitter** – [@un_known](#)
+- **Follow us on Twitter** – [@un_known](https://x.com/un_oknown?t=QgAgAt9tg210B0xwdOy80g&s=09)
 
 ## Contribute & Feedback
 We love hearing from our readers! If you have a hot tip, a story idea, or just want to say hi, reach out at [oknown02@gmail.com](mailto:oknown02@gmail.com).

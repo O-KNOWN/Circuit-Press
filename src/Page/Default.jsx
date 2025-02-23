@@ -72,7 +72,7 @@ function Default(props) {
                 </div>
                 <div className="lg:flex ">
                     <div className='md:w-50'>
-
+    
                         <ul>
                             <li>
                                 <p className="m-0">

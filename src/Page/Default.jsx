@@ -4,6 +4,7 @@ import { VscArrowRight } from 'react-icons/vsc';
 import Navbar from '../Components/Navbar';
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Footer from '../Components/footer';
 
 function Default(props) {
     const [email, setEmail] = useState("");
@@ -103,6 +104,7 @@ function Default(props) {
                 </div>
             </div>
             <ToastContainer position="top-center" autoClose={3000} />
+            <Footer/>
         </div>
     );
 }

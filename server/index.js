@@ -40,10 +40,13 @@ app.post("/subscribe", async(req,res) => {
     }
 })
 
-
+app.get("/get-time", (req, res) => {
+    const userTime = new Date().toLocaleTimeString("en-US");
+    res.json({ message: "User Time Retrieved", userTime });
+});
 
 
 connectDB();
 app.listen(PORT, ()=> {
     console.log(`Example app listening on port ${PORT}`)
-})
+})   

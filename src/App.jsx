@@ -1,14 +1,22 @@
 import { useState } from 'react'
 import './App.css'
 import Default from './Page/Default'
-import Footer from './Components/footer';
-
+import {  BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Login from './Page/login';
 function App() {
 
   return (
     <>
-      <Default/>
-      <Footer/>
+       <Router>
+          <Routes>
+            <Route path="/" element={<Default />} />
+            <Route
+              path="/login"
+              element={ <Login />}
+            />
+          </Routes>
+        </Router>
+      
     </>
   )
 }
